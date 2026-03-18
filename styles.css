@@ -241,8 +241,6 @@ p {
 
 .section {
   padding: 64px 0;
-  content-visibility: auto;
-  contain-intrinsic-size: 1px 900px;
 }
 
 .section-heading {
@@ -412,8 +410,6 @@ p {
 .detail-card {
   padding: 28px;
   border-radius: var(--radius-md);
-  content-visibility: auto;
-  contain-intrinsic-size: 1px 900px;
 }
 
 .detail-back {
